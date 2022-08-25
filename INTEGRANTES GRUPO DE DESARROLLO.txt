@@ -1,0 +1,13 @@
+EQUIPO 5 
+
+INTEGRANTES 
+
+1. Andrea Nicold Aleman Quinto 0801-2000-14062
+2. Brayan Josue Hernandez Saravia 0801-2000-25322
+3. David Fernando Chavez Aguilera 0801-2001-03369
+4. Jorge Alejandro Ayala Martinez 0801-2000-13730
+5. Jefferson Yovany Sanchez Rivas 0801-2000-21030
+6. Iker Andree Ortez Colindres 0801-2001-21387 
+
+
+script de la base de datos en carpeta docs
